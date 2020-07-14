@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dna\ startCodon\ stopCodon
+comment0.target=java.lang.String\ findGeneSimple(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=dna\ start\ stop
+comment1.target=void\ simpleTest(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ checkToEnd(java.lang.String)
+comment3.params=
+comment3.target=void\ multiTest()
+numComments=4
